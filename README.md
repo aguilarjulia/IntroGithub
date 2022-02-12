@@ -5,4 +5,4 @@ Taller desarrollado por el **google developer** con el programa **skill for wome
 
 ### Insertamos una imagen.
 
-![PAISAJE](IMG/descarga.png)
+![PAISAJE](IMG/GALAXIA.png)
