@@ -8,3 +8,5 @@ Taller desarrollado por el **google developer** con el programa **skills for wom
 ![PAISAJE](IMG/GALAXIA.png)
 
 ### Insertamos fotografia 
+
+![momentos](image/moments.jpg)
