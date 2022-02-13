@@ -5,7 +5,7 @@ Taller desarrollado por el **google developer** con el programa **skills for wom
 
 ### Insertamos una imagen.
 
-![PAISAJE](IMG/GALAXIA.png)
+![PAISAJE](IMG/GALAXIA.jpg)
 
 ### Insertamos fotografia 
 
